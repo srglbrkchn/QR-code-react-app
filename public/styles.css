@@ -23,6 +23,7 @@ a {
     margin: 10rem auto;
     border-radius: 15px;
     padding-bottom: 2rem;
+    box-shadow: 0px 20px 30px hsl(220, 15%, 55%);
 }
 
 .qr-code {
